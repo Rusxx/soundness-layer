@@ -47,7 +47,7 @@ fi
 echo && echo "✅ Installation complete!"
 echo && echo "🔍 Detected shell: ${PREF_SHELL}"
 echo "🔗 Added soundnessup to PATH"
-echo && echo "To start using soundnessup, please run:"
+# echo && echo "To start using soundnessup, please run:"
 echo && echo "▶ source ${PROFILE}"
 echo "▶ soundnessup"
 echo && echo "🎉 Enjoy using soundnessup! For help, type 'soundnessup --help'" 
